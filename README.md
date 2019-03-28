@@ -1,4 +1,4 @@
-# sdfkjdFull Stack Web Developer Exercise 4: Item Catalog
+# Full Stack Web Developer Exercise 4: Item Catalog
 
 ## Objective
 Create an application to demonstrate CRUD functionality and OAUTH support for Google + Login and authentication/authorization.
